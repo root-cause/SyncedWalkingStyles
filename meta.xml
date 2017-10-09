@@ -1,0 +1,7 @@
+<meta>
+    <info name="Walking Styles" author="rootcause" type="script" />
+
+    <!-- Files -->
+    <script src="Main.cs" type="server" lang="csharp" />
+    <script src="WalkingStyles.js" type="client" lang="javascript" />
+</meta>
